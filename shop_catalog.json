@@ -454,7 +454,7 @@
 				"coinPrice": 100,
 				"gemPrice": 0,
 				"requiredLevel": 1,
-				"disabled": true,
+				"disabled": false,
 				"summary": "Giảm 15% thời gian sinh trưởng còn lại.",
 				"desc": "Mỗi cây chỉ được bón một lần sau khi tưới nước. Mua xong, kéo phân bón từ kho lên cây để sử dụng."
 			},
@@ -467,7 +467,7 @@
 				"coinPrice": 250,
 				"gemPrice": 0,
 				"requiredLevel": 5,
-				"disabled": true,
+				"disabled": false,
 				"summary": "Giảm 30% thời gian sinh trưởng còn lại.",
 				"desc": "Mỗi cây chỉ được bón một lần sau khi tưới nước. Mua xong, kéo phân bón từ kho lên cây để sử dụng."
 			},
@@ -480,7 +480,7 @@
 				"coinPrice": 500,
 				"gemPrice": 0,
 				"requiredLevel": 10,
-				"disabled": true,
+				"disabled": false,
 				"summary": "Giảm 50% thời gian sinh trưởng còn lại.",
 				"desc": "Mỗi cây chỉ được bón một lần sau khi tưới nước. Mua xong, kéo phân bón từ kho lên cây để sử dụng."
 			}
@@ -496,6 +496,58 @@
 				"gemPrice": 2,
 				"summary": "Chuông gió nhỏ xinh, tạo âm thanh trong trẻo cho khu vườn.",
 				"desc": "Chuông gió nhỏ xinh với âm thanh trong trẻo, mang lại cảm giác thư giãn mỗi khi có gió thổi qua. Phù hợp treo trong vườn để tạo điểm nhấn nhẹ nhàng và dễ thương.",
+				"goldPerHour": 5,
+				"harvestBonus": 10
+			},
+			{
+				"shopItemId": "decor_quat",
+				"grantType": "decor",
+				"grantItemId": "decor_quat",
+				"nameItem": "Quạt",
+				"quantity": 1,
+				"coinPrice": 1000,
+				"gemPrice": 1000,
+				"summary": "Quạt nhỏ xinh, tạo luồng gió mát cho khu vườn.",
+				"desc": "Quạt nhỏ xinh với luồng gió mát, mang lại cảm giác thư giãn mỗi khi có gió thổi qua. Phù hợp treo trong vườn để tạo điểm nhấn nhẹ nhàng và dễ thương.",
+				"goldPerHour": 5,
+				"harvestBonus": 10
+			},
+			{
+				"shopItemId": "decor_picture",
+				"grantType": "decor",
+				"grantItemId": "decor_picture",
+				"nameItem": "Khung Tranh 1",
+				"quantity": 1,
+				"coinPrice": 1000,
+				"gemPrice": 1000,
+				"summary": "Khung Tranh nhỏ xinh, tạo điểm nhấn cho khu vườn.",
+				"desc": "Khung Tranh nhỏ xinh với thiết kế dễ thương, mang lại cảm giác ấm áp mỗi khi có gió thổi qua. Phù hợp treo trong vườn để tạo điểm nhấn nhẹ nhàng và dễ thương.",
+				"goldPerHour": 5,
+				"harvestBonus": 10
+			},
+			{
+				"shopItemId": "decor_den_ngoi_sao",
+				"grantType": "decor",
+				"grantItemId": "decor_den_ngoi_sao",
+				"nameItem": "Đèn Ngôi Sao",
+				"quantity": 1,
+				"coinPrice": 100,
+				"gemPrice": 2,
+				"summary": "Đèn Ngôi Sao nhỏ xinh, tạo ánh sáng lung linh cho khu vườn.",
+				"desc": "Đèn Ngôi Sao nhỏ xinh với ánh sáng lung linh, mang lại cảm giác kỳ diệu mỗi khi có gió thổi qua. Phù hợp treo trong vườn để tạo điểm nhấn nhẹ nhàng và dễ thương.",
+				"goldPerHour": 5,
+				"harvestBonus": 10
+			},
+			{
+				"shopItemId": "decor_khung_tranh_tt",
+				"grantType": "decor",
+				"grantItemId": "decor_khung_tranh_tt",
+				"nameItem": "Khung Tranh Trung Thu",
+				"quantity": 1,
+				"coinPrice": 100,
+				"gemPrice": 2,
+				"summary": "Khung Tranh Trung Thu nhỏ xinh, tạo điểm nhấn cho khu vườn.",
+				"desc": "Khung Tranh Trung Thu nhỏ xinh với thiết kế dễ thương, mang lại cảm giác ấm áp mỗi khi có gió thổi qua. Phù hợp treo trong vườn để tạo điểm nhấn nhẹ nhàng và dễ thương.",
 				"goldPerHour": 5,
 				"harvestBonus": 10
 			}
