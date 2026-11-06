@@ -1,0 +1,58 @@
+{
+  "flowers": [
+    {
+      "seedItemId": "seed_rose",
+      "flowerItemId": "flower_rose",
+      "growSeconds": 60,
+      "rewardItemId": "flower_rose",
+      "rewardQuantity": 1,
+      "expReward": 20,
+      "disease": ["buom"]
+    },
+    {
+      "seedItemId": "seed_sunflower",
+      "flowerItemId": "flower_sunflower",
+      "growSeconds": 120,
+      "rewardItemId": "flower_sunflower",
+      "rewardQuantity": 1,
+      "expReward": 35,
+      "disease": ["chuonchuon"]
+    },
+    {
+      "seedItemId": "seed_tuyetduong",
+      "flowerItemId": "flower_tuyetduong",
+      "growSeconds": 60,
+      "rewardItemId": "flower_tuyetduong",
+      "rewardQuantity": 1,
+      "expReward": 25,
+      "disease": ["buom"]
+    },
+    {
+      "seedItemId": "seed_linhsuong",
+      "flowerItemId": "flower_linhsuong",
+      "growSeconds": 60,
+      "rewardItemId": "flower_linhsuong",
+      "rewardQuantity": 1,
+      "expReward": 25,
+      "disease": ["buom"]
+    },
+    {
+      "seedItemId": "seed_mattroi",
+      "flowerItemId": "flower_mattroi",
+      "growSeconds": 60,
+      "rewardItemId": "flower_mattroi",
+      "rewardQuantity": 1,
+      "expReward": 25,
+      "disease": ["chuonchuon"]
+    },
+    {
+      "seedItemId": "seed_duahaubiendi",
+      "flowerItemId": "flower_duahaubiendi",
+      "growSeconds": 10,
+      "rewardItemId": "flower_duahaubiendi",
+      "rewardQuantity": 1,
+      "expReward": 25,
+      "disease": ["buom"]
+    }
+  ]
+}
